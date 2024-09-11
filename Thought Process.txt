@@ -1,0 +1,1 @@
+Collect the integers to be sorted into an array, then use a sorting algorithm to sort them, and finally use a for loop to output them from the first data to the N-1th data.
